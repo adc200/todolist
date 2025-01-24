@@ -1,4 +1,4 @@
-# To-Do List
+# To-Do List Application
 
 Simplify task management by providing users with a straightforward and efficient to-do list application.
 
